@@ -332,6 +332,9 @@ p {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 100px 0;
+
+#a{font-size: 2rem;
+   color:crimson }
 }
 #projects .projects-header h1 {
 	margin-bottom: 50px;
